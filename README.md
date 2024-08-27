@@ -1,6 +1,6 @@
 # Analise_App
 
-Esta é uma análise real de um processo seletivo que participei e fui aprovada, sobre uma aplicativo de leitura muito conhecido no mercado.
+Esta é uma análise real de um processo seletivo que participei, sobre uma aplicativo de leitura muito conhecido no mercado.
 
 Minha abordagem para esta análise foi inicialmente compreender a base de dados e segmentar os usuários. A seguir, explorei os hábitos de leitura e a percepção dos respondentes sobre aplicativos de leitura, com um foco especial no aplicativo solicitado.
 
